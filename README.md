@@ -1,2 +1,2 @@
 # continuous-prototype
-Playing around with CI/CD for PHP applications at scale
+Playing around with CI/CD for PHP applications at scale.
